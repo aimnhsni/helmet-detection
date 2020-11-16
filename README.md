@@ -5,4 +5,4 @@ Python: Real-time Single & Multiple Custom Object Detection with Colab (GPU), Yo
 1)  access the folder - 1. helmet detection
 2) Download Train_YoloV3_Multiple.ipynb for training custom objects
 
-credit to @easterclassacademy
+credit to @emasterclassacademy
