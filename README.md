@@ -1,4 +1,4 @@
-# helmet-detection
+# helmet-detection YOLOV3
 object detection for helmet, vest and person to detect worker that wear ppe in construction site
 # Youtube
 Python: Real-time Single & Multiple Custom Object Detection with Colab (GPU), Yolov3 and OpenCV
